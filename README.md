@@ -100,6 +100,25 @@ You can fully customize the categories and visual layout to suit your needs.
 
 ## 📷 Screenshots
 
+**🏠 Main Dashboard**  
+Provides a complete overview of your most recent month, including income, expenses, and balance, with alerts and quick stats.
+
+![Main View](assets/main_view.png)
+
+---
+
+**📦 Category Breakdown**  
+Displays your total spending by category using a pie chart and visual metric cards.
+
+![Category View](assets/categories_view.png)
+
+---
+
+**📈 Trend & Balance Analysis**  
+Shows spending trends and balance changes month by month, highlighting the most expensive periods.
+
+![Trend View](assets/trend_view.png)
+
 ## 📜 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
