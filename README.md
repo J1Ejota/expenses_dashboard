@@ -67,22 +67,24 @@ Columna (Español) -- Description (English)
 
 ---
 
-Mes -- Month (e.g., abril 2024)
-Hipoteca -- Mortgage
-Impuestos -- Taxes
-Luz -- Electricity
-Gas -- Gas
-Agua -- Water
-Internet -- Internet
-Escuela -- School
-Acogida -- After-school care
-Inglés -- English lessons
-Comedor -- School lunch
-Natación -- Swimming
-Tarjeta DB -- Credit Card
-Otros -- Others
-Ingresado a cuenta -- Income
-Balance Auto-calculated (optional)
+```scss
+Mes             — Month (e.g., abril 2024)
+Hipoteca        — Mortgage
+Impuestos       — Taxes
+Luz             — Electricity
+Gas             — Gas
+Agua            — Water
+Internet        — Internet
+Escuela         — School
+Acogida         — After-school care
+Inglés          — English lessons
+Comedor         — School lunch
+Natación        — Swimming
+Tarjeta DB      — Credit card (debit)
+Otros           — Other expenses
+Ingresado a cuenta — Income
+Balance         — Auto-calculated (optional)
+```
 
 ---
 
