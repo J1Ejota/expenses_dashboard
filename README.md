@@ -98,8 +98,6 @@ The .env file (if used in future versions) should be excluded with .gitignore.
 
 You can fully customize the categories and visual layout to suit your needs.
 
-## 📷 Screenshots
-
 **🏠 Main Dashboard**  
 Provides a complete overview of your most recent month, including income, expenses, and balance, with alerts and quick stats.
 
